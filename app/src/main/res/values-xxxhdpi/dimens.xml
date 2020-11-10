@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imagewidth">412dp</dimen>
+    <dimen name="imageheight">394dp</dimen>
+    <dimen name="buttonwidth">151dp</dimen>
+    <dimen name="buttonheight">65dp</dimen>
+    <dimen name="buttonmarginstart">140dp</dimen>
+    <dimen name="buttonmargintop">128dp</dimen>
+    <dimen name="buttonmarginend">140dp</dimen>
+</resources>
